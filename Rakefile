@@ -22,7 +22,7 @@ spec = Gem::Specification.new do |s|
   # Change these as appropriate
   s.name              = "musicbrainz_automatcher"
   s.version           = "0.1.0"
-  s.summary           = "What this thing does"
+  s.summary           = "musicbrainz_automatcher matches artists/tracks names to MusicBrainz intelligently"
   s.author            = "Patrick Sinclair"
   s.email             = "metade@gmail.com"
   s.homepage          = "http://github.com/metade/musicbrainz_automatcher"
