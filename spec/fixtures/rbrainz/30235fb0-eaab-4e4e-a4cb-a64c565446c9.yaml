@@ -1,0 +1,65 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: The Ruby Braff Trio
+    script: 
+    type: 
+  offset: 0
+begin_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+  begin: &id001 1927-03-16
+  end: *id001
+  excl: false
+  "@day": 16
+  "@month": 3
+  "@year": 1927
+end_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+  begin: &id002 2003-02-09
+  end: *id002
+  excl: false
+  "@day": 9
+  "@month": 2
+  "@year": 2003
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: 30235fb0-eaab-4e4e-a4cb-a64c565446c9
+name: Ruby Braff
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: Braff, Ruby
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: http://musicbrainz.org/ns/mmd-1.0#Person

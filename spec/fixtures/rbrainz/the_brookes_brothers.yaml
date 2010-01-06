@@ -1,0 +1,1009 @@
+--- !ruby/object:MusicBrainz::Model::ScoredCollection 
+count: 1004
+entries: 
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 1ebfdf94-157b-47c0-a71e-9291c6a557cd
+    name: Brookes Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: f7e99ad7-6349-4dfe-bce4-5eafc0f2f943
+    name: Culture Shock & Brookes Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Culture Shock & Brookes Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 80
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: fc8c3983-888c-4a82-aee5-ed4cfd7985a9
+    name: Danny Byrd & The Brookes Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Byrd, Danny & Brookes Brothers, The
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 70
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 363df8b8-890b-419c-8b18-f780b328ba41
+    name: The Brookes Brothers vs. Futurebound
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes Brothers, The vs. Futurebound
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 70
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: dcf9c831-52a9-4f1d-b80a-e0cbec450ba4
+    name: Terry Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Terry
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 45a240b6-a000-4c7b-a95b-a317e724a5a9
+    name: Alan Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Alan
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 7415b799-695b-436c-a53e-b31deaa6eada
+    name: Steve Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Steve
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 5bc352c6-4846-484d-ab55-da02bef2e4e1
+    name: Dan Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Dan
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 96df289f-47bd-47e9-b145-697e96063503
+    name: Phil Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Phil
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 5f508fa2-53e0-48fa-8c33-98176e6d521d
+    name: Jon Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Jon
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 5f9ffd2d-3635-499d-b6e8-e55335552dba
+    name: Darren Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Darren
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 5e45585d-e760-41eb-8d73-c4c33be31439
+    name: Kelsey Brookes
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Kelsey
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 35
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 8bb715ac-a91a-4ac5-98e9-91535f1e76ef
+    name: Terry Brookes & Aaron Soul
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brookes, Terry & Soul, Aaron
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 28
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 6dbfcc02-5de1-4d1e-a2fb-806b8932356b
+    name: !binary |
+      55yf5b+D44OW44Op44K244O844K6
+
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Magokoro Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 24
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: 50's rock, Dean & Marc Mathis
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 25afe624-53ef-463c-b76b-fc83e4018740
+    name: Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 22
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: Italian trance/dance group
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 6184fa65-cc45-495e-a48b-b2da4728c124
+    name: Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 22
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: UK 90s pop rock
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: c83dfe16-82d7-4c89-90ef-eec48d82eafb
+    name: Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 22
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: d4ae0ca5-dd0a-4e85-a0c7-1b9cce33e278
+    name: Baba Brooks
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Brooks, Baba
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 14
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 54c29bb0-6cc3-457a-98be-857e0c66716f
+    name: Conway Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Conway Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 14
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 63c99567-14f8-405b-8606-6ac2fab9ba9e
+    name: Carter Brothers
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Carter Brothers
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 14
+offset: 0

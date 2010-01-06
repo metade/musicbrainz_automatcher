@@ -1,0 +1,56 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+begin_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+  begin: 1993-01-01
+  end: 1993-12-31
+  excl: false
+  "@day": 
+  "@month": 
+  "@year": 1993
+end_date: 
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: a96ac800-bfcb-412a-8a63-0a98df600700
+name: Modest Mouse
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: Modest Mouse
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: http://musicbrainz.org/ns/mmd-1.0#Group

@@ -1,0 +1,1035 @@
+--- !ruby/object:MusicBrainz::Model::ScoredCollection 
+count: 336
+entries: 
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    begin_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+      begin: 2007-01-01
+      end: 2007-12-31
+      excl: false
+      "@day": 
+      "@month": 
+      "@year": 2007
+    end_date: 
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 8a3e1c4f-59a8-457a-826c-fe961419a8ae
+    name: The Last Shadow Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Last Shadow Puppets, The
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: Calipso artist
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 4df56780-6e79-42ec-b301-f2e63213b18d
+    name: Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: OC Remix artist
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: c39bb3fc-1ef2-4dbe-a713-89e884a9b68f
+    name: Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    begin_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+      begin: 1993-01-01
+      end: 1993-12-31
+      excl: false
+      "@day": 
+      "@month": 
+      "@year": 1993
+    disambiguation: Death-metal band from Japan
+    end_date: 
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: b301571e-432a-417b-96e8-eba674677e5b
+    name: Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: Trance music artist
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: b2289bc3-d75d-407e-8d26-4c02baafe881
+    name: Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: "Alias for Jon N\xC3\xB6dtveidt in Ophthalamia"
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 674016c0-8a1f-43c7-a5e9-cd30c8a9d882
+    name: Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: US rapper Gerald Washington
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: a84b2947-3e7d-49b6-9927-2e2cc9a09cc3
+    name: Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    begin_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+      begin: 1980-01-01
+      end: 1980-12-31
+      excl: false
+      "@day": 
+      "@month": 
+      "@year": 1980
+    end_date: 
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 3df040ee-2b8b-446b-937a-3f86f4b2cabf
+    name: Meat Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Meat Puppets
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 16fc44ab-c2a6-4ddf-9741-53c0462fa77f
+    name: The Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Puppets, The
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 75b53909-e1ad-437c-bd73-e942bc2ea8f0
+    name: Passion Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Passion Puppets
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 9070ac0b-44b1-447a-8dba-3c8c9ac20094
+    name: Satnam Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Satnam Puppets
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    disambiguation: Leicester/Coventry band
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: a1f7e090-e191-4f38-8513-84aec7c8ae85
+    name: The Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Puppets, The
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 790b7aea-5e0d-48ea-8924-bc6da28922fc
+    name: Urban Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Urban Puppets
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: f3653c49-2b59-4c5c-b68c-5749b2644b31
+    name: Hooded Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Hooded Puppets
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 19
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 02d08a35-2c73-48a3-8e42-27c28571324a
+    name: Jim Hensons Puppets
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Jim Hensons Puppets
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 15
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 21f2fe3d-73a1-463f-b3e4-f73f74022949
+    name: Shadow Project
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow Project
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 12
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: efa2c11a-1a35-4b60-bc1b-66d37de88511
+    name: DJ Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow, DJ
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Person
+  score: 12
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: 1d219532-3976-4ba0-9b92-3448fd85ba78
+    name: Shadow Gallery
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow Gallery
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 12
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: d04d9bbb-a122-42a9-ba39-aefb8664cc62
+    name: Black Shadow
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Black Shadow
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: 
+  score: 12
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: !ruby/object:MusicBrainz::Model::Artist 
+    aliases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :artist
+      uuid: c7ff2257-0ecf-4d57-8c17-0c193e18cf71
+    name: Shadow Warriors
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    sort_name: Shadow Warriors
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    type: http://musicbrainz.org/ns/mmd-1.0#Group
+  score: 12
+offset: 0

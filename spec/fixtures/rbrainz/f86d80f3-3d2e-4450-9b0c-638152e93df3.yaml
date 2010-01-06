@@ -1,0 +1,51 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: The Delays
+    script: 
+    type: 
+  offset: 0
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: f86d80f3-3d2e-4450-9b0c-638152e93df3
+name: Delays
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: Delays
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: http://musicbrainz.org/ns/mmd-1.0#Group

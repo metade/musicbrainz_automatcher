@@ -1,0 +1,26 @@
+= musicbrainz_automatcher
+
+* http://github.com/metade/musicbrainz_automatcher
+
+== DESCRIPTION:
+
+musicbrainz_automatcher matches artists/tracks names to MusicBrainz intelligently
+
+== EXAMPLE USE:
+
+require 'rubygems'
+require 'musicbrainz_automatcher'
+
+m = MusicbrainzAutomatcher.new
+m.match_artist 'Coldplay', 'Yellow'
+
+=> "cc197bad-dc9c-440d-a5b5-d52ba2e14234"
+
+== REQUIREMENTS:
+
+* depends on rbrainz, active_support, iconv and text
+
+== AUTHORS:
+
+Nicholas Humfrey
+Patrick Sinclair

@@ -1,0 +1,48 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: 2cab1932-c59c-4977-a676-71c838204235
+name: Ed Jones
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: Jones, Ed
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: http://musicbrainz.org/ns/mmd-1.0#Person

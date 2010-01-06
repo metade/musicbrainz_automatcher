@@ -1,0 +1,1007 @@
+--- !ruby/object:MusicBrainz::Model::ScoredCollection 
+count: 3304
+entries: 
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id001 !ruby/object:MusicBrainz::Model::Track 
+    artist: &id007 !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 900e9144-019d-4043-86cb-ec0e127c39d0
+      name: Chaka Khan
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 285000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 1f8fccd0-9d81-4629-bd63-7685c0bb4940
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: c0946fc1-98ef-44f7-bbc7-f9e7bcd3c137
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Funk This
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 13
+          entries: 
+          - *id001
+          offset: 6
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Disrespectful (feat. Mary J. Blige)
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id002 !ruby/object:MusicBrainz::Model::Track 
+    artist: &id003 !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: c1ec5a3d-7706-44ed-982f-6cf532c7e324
+      name: Hank III and Assjack
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 691440
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: babc293a-8fed-4b95-8acc-5b51f011f29d
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 6bff94c6-e5bb-4333-b1ca-3c51485a266e
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: "Bootleg #2"
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 10
+          entries: 
+          - *id002
+          offset: 9
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Disrespectful
+  score: 52
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id004 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id003
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: b639b130-317b-4526-8fb2-18250253c44e
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 4e921169-329d-40b5-9908-3d87c17c74ac
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: "Bootleg #1"
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 6
+          entries: 
+          - *id004
+          offset: 5
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Disrespectful/Hellbilly
+  score: 32
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id005 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 1129800d-3c38-4f1f-9335-9863a4590e3e
+      name: Calvin Richardson
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 300907
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 191321aa-fa17-4a58-866c-179c62aec700
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 6d1aab94-494d-4d85-adcf-cb1d9ba7f5a4
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Country Boy
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 13
+          entries: 
+          - *id005
+          offset: 12
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Disrespectful Ghetto
+  score: 32
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id006 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 1b764e7a-ded1-42bc-8c85-85703b6d72a5
+      name: Hank Williams III
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 316840
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 62ffe5f5-64bb-4004-9146-f9ca330279aa
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 911a5085-d0d7-4fd5-9aa9-e8aa441c3c4b
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: "Boot #1"
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 6
+          entries: 
+          - *id006
+          offset: 5
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Disrespectful / Hellbilly
+  score: 32
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id009 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id007
+    duration: 385626
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: f1640b89-f9e8-4700-bd49-069e9c40fcff
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - &id008 !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 4db24059-443f-496c-b40f-bc782ce2fe3e
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: "Life Is a Dance: The Remix Project"
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 11
+          entries: 
+          - *id009
+          - &id010 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id007
+            duration: 467040
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: dadf1cf5-b2d3-4536-a9de-79655c8fcf68
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id008
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: I Know You, I Live You (Tony Humphries remix)
+          - &id011 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id007
+            duration: 307360
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: 1559fba1-9111-4606-ab7b-32b09f45d905
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id008
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: This Is My Night (Marley Marl remix)
+          - &id012 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id007
+            duration: 506866
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: 70b4d8d7-6593-4ff5-aa02-647cd21c9d14
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id008
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Eye to Eye (Paul Simpson remix)
+          - &id013 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id007
+            duration: 338973
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: ae0a14db-b6fe-4ebf-b663-fd8ee7749d07
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id008
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Slow Dancin' (Eric Sadler & Hank Shocklee remix)
+          offset: 4
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Life Is a Dance (David Morales remix)
+  score: 27
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id010
+  score: 27
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id011
+  score: 27
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id012
+  score: 27
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id013
+  score: 27
+offset: 0

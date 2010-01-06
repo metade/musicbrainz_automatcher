@@ -1,0 +1,59 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: James Yorkson
+    script: 
+    type: 
+  offset: 0
+begin_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+  begin: 1970-01-01
+  end: 1970-12-31
+  excl: false
+  "@day": 
+  "@month": 
+  "@year": 1970
+end_date: 
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: 6a9e9e71-916f-4ac3-b9c4-7aa520b7d97a
+name: James Yorkston
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: Yorkston, James
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: http://musicbrainz.org/ns/mmd-1.0#Person

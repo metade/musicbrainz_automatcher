@@ -1,0 +1,814 @@
+--- !ruby/object:MusicBrainz::Model::ScoredCollection 
+count: 3831
+entries: 
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id001 !ruby/object:MusicBrainz::Model::Track 
+    artist: &id002 !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: ae681605-2801-4120-9a48-e18752042306
+      name: Jay-Z and Linkin Park
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 205280
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 61c02fcf-dab7-486c-8ea8-cd14374b03cf
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: f51598f5-4ef9-4b8a-865d-06a077bf78cf
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Collision Course
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 6
+          entries: 
+          - *id001
+          offset: 3
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Numb/Encore
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id003 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 209000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: bc264735-06dd-41a5-b755-924567f2258c
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 2b336b07-c455-4d9f-aea5-4b78d5852e1b
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Collision Course (live)
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 7
+          entries: 
+          - *id003
+          offset: 4
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Numb/Encore
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id004 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 204213
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 3afe5039-3871-431d-83dc-83392a506d39
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: a661710a-f4b0-43df-b17b-aacc968bae7d
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: "Promo Only: Mainstream Radio, December 2004"
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 20
+          entries: 
+          - *id004
+          offset: 8
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Numb-Encore
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id006 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 205346
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: daccb724-8023-432a-854c-e0accb6c8678
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - &id005 !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: ff06ca3e-3651-4406-9549-3204e8a169e5
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Numb/Encore
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 6
+          entries: 
+          - *id006
+          - &id007 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id002
+            duration: 205346
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: 6ca2f30f-5c9b-4a33-b1ff-3f7f14d40486
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id005
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Numb/Encore (clean)
+          - &id008 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id002
+            duration: 207333
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: 965b75df-397d-4395-aac8-de11854c4630
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id005
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Numb/Encore (instrumental)
+          - &id009 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id002
+            duration: 199973
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: 53296a5c-03cc-4547-b6b2-3d047867c786
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id005
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Numb/Encore (a cappella)
+          - &id010 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id002
+            duration: 199146
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: 62d79df4-85ba-4a7d-81ae-d9b87226520c
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id005
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Numb/Encore (a cappella clean)
+          offset: 4
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Numb/Encore (explicit)
+  score: 90
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id007
+  score: 90
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id008
+  score: 90
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id009
+  score: 90
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id010
+  score: 90
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id012 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: e8159f99-29c6-4c24-b67f-c4174461f978
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - &id011 !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 227ed1f0-9f3f-477a-a326-6fa4a93a148f
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Numb/Encore
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 7
+          entries: 
+          - *id012
+          - &id013 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id002
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: 9fa29425-ea26-4ff5-8be6-f94fe8674da5
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id011
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Numb/Encore (Tribal mix)
+          offset: 3
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Numb/Encore (radio edit)
+  score: 90
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id013
+  score: 90
+offset: 0

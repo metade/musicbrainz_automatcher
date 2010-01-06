@@ -1,0 +1,86 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: testalias
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: MusicBrainz Test Artist Frobozz
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Qwlghm
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: MusicBrainz Test Artist Qwlghm
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: !binary |
+      44OG44K544OI6Iq46KGT5a62
+
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Testing Artist
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Testings Artist
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: MB Test Artist
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Move for Great speed Testing
+    script: 
+    type: 
+  offset: 0
+disambiguation: "test artist 1 - test releases with various # of tracks here!"
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: 7e84f845-ac16-41fe-9ff8-df12eb32af55
+name: MusicBrainz Test Artist
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: MusicBrainz Test Artist
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: 

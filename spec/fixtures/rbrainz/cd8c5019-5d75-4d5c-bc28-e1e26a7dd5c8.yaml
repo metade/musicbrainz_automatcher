@@ -1,0 +1,77 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Jose Gonzalez
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: !binary |
+      Sm9zw4PCqSBHb256w4PCoWxleg==
+
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: "Jos\xC3\xA9 Gonz\xC3\xA0lez"
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: "Jos\xC3\xA9 Gonz\xC3\xA1les"
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Jose Gonzales
+    script: 
+    type: 
+  offset: 0
+begin_date: !ruby/range:MusicBrainz::Model::IncompleteDate 
+  begin: 1978-01-01
+  end: 1978-12-31
+  excl: false
+  "@day": 
+  "@month": 
+  "@year": 1978
+end_date: 
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8
+name: "Jos\xC3\xA9 Gonz\xC3\xA1lez"
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: "Gonz\xC3\xA1lez, Jos\xC3\xA9"
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: http://musicbrainz.org/ns/mmd-1.0#Person

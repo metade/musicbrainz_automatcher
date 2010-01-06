@@ -1,0 +1,1071 @@
+--- !ruby/object:MusicBrainz::Model::ScoredCollection 
+count: 51413
+entries: 
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id001 !ruby/object:MusicBrainz::Model::Track 
+    artist: &id002 !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: f4d5cc07-3bc9-4836-9b15-88a08359bc63
+      name: P!nk
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 196106
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 9d538713-b78c-4432-83b9-9f329abfac2d
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 36255656-30f8-43ce-8232-36d871481d4d
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: M!ssundaztood
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 15
+          entries: 
+          - *id001
+          offset: 0
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id003 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 192626
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 3be4707a-d09f-47e3-9999-10d339aa99b9
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 75df3f69-8957-463b-a3ca-70ba7fa16734
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Grammy Nominees 2003
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 19
+          entries: 
+          - *id003
+          offset: 11
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id004 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 191866
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 07262ce8-df05-4075-b617-504ba759eb92
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 1cb5587f-bd66-4fe7-842c-5b0d3be3ea90
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Woman IV (disc 1)
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 19
+          entries: 
+          - *id004
+          offset: 7
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id005 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 192000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 3d4fdc5f-26af-4c9e-afd5-695b507fc9b7
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: a9ca5a6a-8212-4566-a778-362c5abb0d9c
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: "Die ultimative Chart Show: Die erfolgreichsten S\xC3\xA4ngerinnen & S\xC3\xA4nger (disc 1)"
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 20
+          entries: 
+          - *id005
+          offset: 18
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id006 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 191666
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: ef96f0f7-b26b-421e-a0e3-b9fdb45cd500
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: b67568c0-e828-448e-9d7e-183c766a1986
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: M!ssundaztood
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 14
+          entries: 
+          - *id006
+          offset: 3
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id007 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 178693
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 7e5a697b-17d0-41e9-8276-1d12c804145e
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 6ab2ad05-005f-4c27-b50c-d4c1ee9b5fb5
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Groove Station 8
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 18
+          entries: 
+          - *id007
+          offset: 1
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get This Party Started
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id008 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 193293
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: ecf935e1-88cf-48d0-bdb3-62e143f43309
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 5e638d1c-4727-4c10-8b66-430f43b1b71a
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Absolute Music 29
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 18
+          entries: 
+          - *id008
+          offset: 2
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id009 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 190333
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 5f778b95-d097-4935-b7b8-cd98e0fd38b6
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 2c0bfae8-ebd6-4f06-b2b7-547e9bb1ea13
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Totally Hits 2002
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 20
+          entries: 
+          - *id009
+          offset: 2
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id010 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 192226
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 256dff66-bf67-4995-a272-b45615bf16d2
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: aa118526-52d8-4d34-9ef7-7dbffc9c7d51
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Top 2002 (disc 1)
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 20
+          entries: 
+          - *id010
+          offset: 2
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id011 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 191093
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 3a8a8649-9955-4fab-bdef-b9f9e0cb0b95
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 62d184f2-287d-48e6-b13f-746770d4a5ff
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Festivalbar 2002 Compilation Blu (disc 1)
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 19
+          entries: 
+          - *id011
+          offset: 12
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Get the Party Started
+  score: 99
+offset: 0

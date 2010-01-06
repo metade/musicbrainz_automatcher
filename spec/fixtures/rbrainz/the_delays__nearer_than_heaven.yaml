@@ -1,0 +1,2509 @@
+--- !ruby/object:MusicBrainz::Model::ScoredCollection 
+count: 637512
+entries: 
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id001 !ruby/object:MusicBrainz::Model::Track 
+    artist: &id002 !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: f86d80f3-3d2e-4450-9b0c-638152e93df3
+      name: Delays
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 213293
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: deb57586-46b0-4dda-87d1-cba644397860
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: ee1830ae-9d7b-426e-a1db-9d8e0bc493b3
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Nearer Than Heaven
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 3
+          entries: 
+          - *id001
+          offset: 0
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id003 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: da8f4e12-8f16-47a2-9757-cd7cf428f791
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 90e90ff5-c1b8-493b-b55f-36466c6b5b59
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Blackball
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 13
+          entries: 
+          - *id003
+          offset: 10
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id004 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 211453
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 0c8612f4-9b79-4f54-ab86-db2ba78f17db
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 7246d86f-2ff6-40ab-89b5-647b4c145543
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: A Brilliantine Mortality (disc 2)
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 16
+          entries: 
+          - *id004
+          offset: 10
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id005 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 210000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 0db5652d-b9d8-4a2f-8cb9-963cfa992aea
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 1f66e58e-1d35-43a9-a7cc-bc63c77751a7
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Hits 58 (disc 2)
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 20
+          entries: 
+          - *id005
+          offset: 14
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id006 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 214000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: aa360c4c-e2e5-4fd2-8e92-94f484618a66
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: db1f3d99-2c19-43df-a1ce-ea84f8b47e67
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Nearer Than Heaven
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 3
+          entries: 
+          - *id006
+          offset: 0
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 100
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id007 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 208333
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 4b418bd7-bf23-48ee-a741-3532fd78f577
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: d6619322-7323-4f8c-93ae-10a114b741e7
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Faded Seaside Glamour
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 12
+          entries: 
+          - *id007
+          offset: 1
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id008 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    duration: 210533
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 7580a6bc-b211-4bb9-b651-48bca6b989ee
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: fb0ff65c-7403-408f-bf47-1f06c7a48234
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: The Newbreed
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 20
+          entries: 
+          - *id008
+          offset: 14
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id009 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id002
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: d983154c-b5cd-41c5-9ff6-9e9b22d240cb
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 70a60a5c-1d6f-47c0-b5ae-089e9f8ed1e1
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Nearer Than Heaven
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 2
+          entries: 
+          - *id009
+          offset: 0
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Heaven
+  score: 99
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id010 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 0452a81f-537a-403d-a8bc-ab7921439bcb
+      name: The Stands
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 333840
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: d42e3c5d-85cf-4104-a788-c2932bdc2589
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 114ebf08-8c85-4985-aa64-3e39461c5fb7
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Horse Fabulous
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 11
+          entries: 
+          - *id010
+          offset: 6
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than Green
+  score: 37
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id011 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: c8bc9ad3-1df2-4c9b-9cf7-cf6fc60441dc
+      name: Emilie Autumn
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 111000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 1a88c90d-95a1-44c9-89e4-979e7c511c93
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 1b1ce9e2-67c4-401d-9504-4197e3582d28
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Your Sugar Sits Untouched
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 46
+          entries: 
+          - *id011
+          offset: 26
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer Than You
+  score: 24
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id012 !ruby/object:MusicBrainz::Model::Track 
+    artist: &id015 !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: c521e51a-3a05-4915-8479-9023ab82cdb5
+      name: The Swimming Pool Q's
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 88ff90c0-9efc-4e57-b800-b626791a1b83
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 6dca6347-2393-4753-b3cc-d1367676176f
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Blue Tomorrow
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 10
+          entries: 
+          - *id012
+          offset: 5
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: More Than One Heaven
+  score: 22
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id013 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 4d6fa869-1dd0-430a-8dfb-a0f2f0ac63b3
+      name: The Time Frequency
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 286000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 2cde8b6e-cbb1-428c-8749-da76963076f8
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: fb54edf3-06ff-4271-9c82-76d7e195bee3
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: The Time Frequency EP
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 4
+          entries: 
+          - *id013
+          offset: 2
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Higher Than Heaven (Remix)
+  score: 22
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id014 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 47994c8b-0017-42e3-bfde-370de959ffcf
+      name: The Rocky Fortune
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 229000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: a2ffcc92-8d40-4699-afbc-5521ffa3b757
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 3c7e9ebc-5f3b-4957-9b7c-297be5cce13b
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Sway
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 10
+          entries: 
+          - *id014
+          offset: 7
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Hotter than heaven
+  score: 22
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id016 !ruby/object:MusicBrainz::Model::Track 
+    artist: *id015
+    duration: 220000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: e5af1d31-2ab2-4bb6-b660-edaf54b0228f
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 25102c18-8679-4d8f-ab39-6b8249348f6a
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Taken
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 15
+          entries: 
+          - *id016
+          offset: 11
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: More Than One Heaven
+  score: 22
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id017 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 9295f2ab-32d5-4f05-8c5d-44daa34e81fa
+      name: The Creatures
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 355400
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 765be4c1-346d-495f-a7d4-d2cb48f78929
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 3f4b082c-76fa-4618-a00b-38ff2fd08ab1
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: !binary |
+          SMOhaSE=
+
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 9
+          entries: 
+          - *id017
+          offset: 6
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Further Nearer
+  score: 21
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id018 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 219ce30a-0f3a-468c-9a13-55ee358ac0f0
+      name: The Rascals
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 538000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: e19d46e8-f504-4f1c-90aa-bc5ebad61162
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 1db30194-b1e7-4228-8cb4-77dfab06bd9d
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Peaceful World
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 12
+          entries: 
+          - *id018
+          offset: 10
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Getting Nearer
+  score: 21
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id021 !ruby/object:MusicBrainz::Model::Track 
+    artist: &id019 !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 059248e5-6fb5-4e41-9751-8fdbe2471bdd
+      name: The Mighty Threes
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 248640
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 6bfd5902-2dce-4db5-bccb-d21389d2447c
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - &id020 !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 6d30cc14-78ff-4744-91ee-5ca202f64632
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Africa Shall Stretch Forth Her Hands
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 16
+          entries: 
+          - *id021
+          - &id022 !ruby/object:MusicBrainz::Model::Track 
+            artist: *id019
+            duration: 251826
+            id: !ruby/object:MusicBrainz::Model::MBID 
+              entity: :track
+              uuid: e75ebd6a-eda1-4434-b3b3-7285b29247ea
+            puids: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            relations: 
+              http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+              http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+                count: 0
+                entries: []
+
+                offset: 0
+            releases: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: 
+              - *id020
+              offset: 0
+            tags: !ruby/object:MusicBrainz::Model::Collection 
+              count: 0
+              entries: []
+
+              offset: 0
+            title: Nearer to Dub
+          offset: 13
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer to Africa
+  score: 21
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: *id022
+  score: 21
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id023 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: 87b1f169-2f80-4e09-97a5-397702e92413
+      name: Sam Cooke & The Soul Stirrers
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 184000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 7b49a227-f974-4f9b-a006-30e4925f9c15
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 3e6ac83d-8e1b-4f13-99f3-b7e97bd4694c
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Gospel, the Essential Album (disc 2)
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 14
+          entries: 
+          - *id023
+          offset: 6
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer to Thee
+  score: 21
+- !ruby/object:MusicBrainz::Model::ScoredCollection::Entry 
+  entity: &id024 !ruby/object:MusicBrainz::Model::Track 
+    artist: !ruby/object:MusicBrainz::Model::Artist 
+      aliases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      id: !ruby/object:MusicBrainz::Model::MBID 
+        entity: :artist
+        uuid: f7177377-7406-4a81-bdfa-e7a32322dd5e
+      name: Woody Mann
+      relations: 
+        http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+      releases: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      sort_name: 
+      tags: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      type: 
+    duration: 162000
+    id: !ruby/object:MusicBrainz::Model::MBID 
+      entity: :track
+      uuid: 0f282e32-fe86-483c-9cca-7bbd5e96f459
+    puids: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    relations: 
+      http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+      http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+        count: 0
+        entries: []
+
+        offset: 0
+    releases: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: 
+      - !ruby/object:MusicBrainz::Model::Release 
+        discs: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        id: !ruby/object:MusicBrainz::Model::MBID 
+          entity: :release
+          uuid: 42f62bf1-2931-4f8c-bb63-ca04b22929e4
+        relations: 
+          http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+          http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+            count: 0
+            entries: []
+
+            offset: 0
+        release_events: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        tags: !ruby/object:MusicBrainz::Model::Collection 
+          count: 0
+          entries: []
+
+          offset: 0
+        title: Heading Uptown
+        tracks: !ruby/object:MusicBrainz::Model::Collection 
+          count: 12
+          entries: 
+          - *id024
+          offset: 11
+        types: []
+
+      offset: 0
+    tags: !ruby/object:MusicBrainz::Model::Collection 
+      count: 0
+      entries: []
+
+      offset: 0
+    title: Nearer To God Than Thee
+  score: 21
+offset: 0

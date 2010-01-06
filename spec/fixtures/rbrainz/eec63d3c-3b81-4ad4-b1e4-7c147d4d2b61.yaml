@@ -1,0 +1,133 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: no artist
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Sound Effects
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: n/a
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: "[silence]"
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: 75 Spectacular Sound Effects (Vol. 1)
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: None
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: "[none]"
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: "[news report]"
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: INA
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: "[audience]"
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: none given
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: "[noartist]"
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Sound Ideas
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Sound Ideas_Sound Effects Library
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: !binary |
+      6Iq46KGT5a6244Gv44GC44KK44G+44Gb44KT
+
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: !binary |
+      6Iq46KGT5a6244Gv44Gq44GE
+
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: !binary |
+      6Z+z6Z+/5Yq55p6c
+
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: (none)
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Virtual Audio Environments
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: Sound Effect
+    script: 
+    type: 
+  offset: 0
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: eec63d3c-3b81-4ad4-b1e4-7c147d4d2b61
+name: "[no artist]"
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: "[no artist]"
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: 

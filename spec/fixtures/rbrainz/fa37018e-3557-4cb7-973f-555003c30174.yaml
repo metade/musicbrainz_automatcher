@@ -1,0 +1,71 @@
+--- !ruby/object:MusicBrainz::Model::Artist 
+aliases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: London Philharmonic
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: LPO
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: London Philharmonic Orchaestra
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: London Philharmonic Orchestra, The
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: London Philharmonia Orchestra
+    script: 
+    type: 
+  - !ruby/object:MusicBrainz::Model::Alias 
+    name: The London Philharmonic Orchestra
+    script: 
+    type: 
+  offset: 0
+id: !ruby/object:MusicBrainz::Model::MBID 
+  entity: :artist
+  uuid: fa37018e-3557-4cb7-973f-555003c30174
+name: London Philharmonic Orchestra
+relations: 
+  http://musicbrainz.org/ns/rel-1.0#Track: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Url: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Label: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Release: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+  http://musicbrainz.org/ns/rel-1.0#Artist: !ruby/object:MusicBrainz::Model::Collection 
+    count: 0
+    entries: []
+
+    offset: 0
+releases: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+sort_name: London Philharmonic Orchestra
+tags: !ruby/object:MusicBrainz::Model::Collection 
+  count: 0
+  entries: []
+
+  offset: 0
+type: http://musicbrainz.org/ns/mmd-1.0#Group
